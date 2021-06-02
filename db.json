@@ -1,58 +1,104 @@
 {
   "en-US": [
-  {
-    "ResourceKey": "ColumnID",
-    "Value": "ID"
-  },
-  {
-    "ResourceKey": "Global_SentDate",
-    "Value": "Sent date"
-  },
-  {
-    "ResourceKey": "SendTo",
-    "Value": "Send To"
-  },
-  {
-    "ResourceKey": "ClientFilter_Platform",
-    "Value": "Platform"
-  },
-  {
-    "ResourceKey": "Channel",
-    "Value": "Channel"
-  }, 
-      {
-    "ResourceKey": "Global_Status",
-    "Value": "Status"
-  },
-  {
-    "ResourceKey": "Global_Type",
-    "Value": "Type"
-  },
-  {
-    "ResourceKey": "Global_Category",
-    "Value": "Category"
-  }
+    {
+      "ResourceKey": "ColumnID",
+      "Value": "ID"
+    },
+    {
+      "ResourceKey": "Global_SentDate",
+      "Value": "Sent date"
+    },
+    {
+      "ResourceKey": "SendTo",
+      "Value": "Send To"
+    },
+    {
+      "ResourceKey": "ClientFilter_Platform",
+      "Value": "Platform"
+    },
+    {
+      "ResourceKey": "Channel",
+      "Value": "Channel"
+    },
+    {
+      "ResourceKey": "Global_Status",
+      "Value": "Status"
+    },
+    {
+      "ResourceKey": "Global_Type",
+      "Value": "Type"
+    },
+    {
+      "ResourceKey": "Global_Category",
+      "Value": "Category"
+    }
   ],
   "es-419": [
-      {
-    "ResourceKey": "ColumnID",
-    "Value": "ID"
-  },
-  {
-    "ResourceKey": "Global_SentDate",
-    "Value": "Fecha enviada"
-  },
-    
+    {
+      "ResourceKey": "ColumnID",
+      "Value": "ID"
+    },
+    {
+      "ResourceKey": "Global_SentDate",
+      "Value": "Fecha enviada"
+    },
+    {
+      "ResourceKey": "SendTo",
+      "Value": "Destinatario"
+    },
+    {
+      "ResourceKey": "ClientFilter_Platform",
+      "Value": "Plataforma"
+    },
+    {
+      "ResourceKey": "Channel",
+      "Value": "Canal"
+    },
+    {
+      "ResourceKey": "Global_Status",
+      "Value": "Estado"
+    },
+    {
+      "ResourceKey": "Global_Type",
+      "Value": "Tipo"
+    },
+    {
+      "ResourceKey": "Global_Category",
+      "Value": "Categoría"
+    }
   ],
   "fr-FR": [
-      {
-    "ResourceKey": "ColumnID",
-    "Value": "ID"
-  },
-      {
-    "ResourceKey": "Global_SentDate",
-    "Value": "Date d'envoi"
-  },
-    
-   ]
+    {
+      "ResourceKey": "ColumnID",
+      "Value": "ID"
+    },
+    {
+      "ResourceKey": "Global_SentDate",
+      "Value": "Date d'envoi"
+    },
+    {
+      "ResourceKey": "ClientFilter_Platform",
+      "Value": "Plateforme"
+    },
+    {
+      "ResourceKey": "ClientFilter_Platform",
+      "Value": "Platform"
+    },
+    {
+      "ResourceKey": "Channel",
+      "Value": "Mode d'envoi"
+    },
+    {
+      "ResourceKey": "Global_Status",
+      "Value": "État"
+    },
+    {
+      "ResourceKey": "Global_Type",
+      "Value": "Type"
+    },
+    {
+      "ResourceKey": "Global_Category",
+      "Value": "catégorie"
+    }
+  ]
 }
