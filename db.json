@@ -76,6 +76,10 @@
       "ResourceKey": "Global_SentDate",
       "Value": "Date d'envoi"
     },
+      {
+    "ResourceKey": "SendTo",
+    "Value": "Destinataire"
+  },
     {
       "ResourceKey": "ClientFilter_Platform",
       "Value": "Plateforme"
