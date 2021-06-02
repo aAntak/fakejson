@@ -32,5 +32,27 @@
     "ResourceKey": "Global_Category",
     "Value": "Category"
   }
-  ]
+  ],
+  "es-419": [
+      {
+    "ResourceKey": "ColumnID",
+    "Value": "ID"
+  },
+  {
+    "ResourceKey": "Global_SentDate",
+    "Value": "Fecha enviada"
+  },
+    
+  ],
+  "fr-FR": [
+      {
+    "ResourceKey": "ColumnID",
+    "Value": "ID"
+  },
+      {
+    "ResourceKey": "Global_SentDate",
+    "Value": "Date d'envoi"
+  },
+    
+   ]
 }
