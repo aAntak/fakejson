@@ -81,10 +81,6 @@
       "Value": "Plateforme"
     },
     {
-      "ResourceKey": "ClientFilter_Platform",
-      "Value": "Platform"
-    },
-    {
       "ResourceKey": "Channel",
       "Value": "Mode d'envoi"
     },
