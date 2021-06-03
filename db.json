@@ -39,6 +39,10 @@
     {
       "ResourceKey": "Empty_Result_Set_Message",
       "Value": "Sorry, we couldn't find any results that matched your search."
+    },
+    {
+      "ResourceKey": "ErrorDetails",
+      "Value": "Error Details"
     }
   ],
   "es-419": [
@@ -81,6 +85,10 @@
     {
       "ResourceKey": "Empty_Result_Set_Message",
       "Value": "Lo sentimos, no encontramos ningún resultado que concuerde con su búsqueda."
+    },
+    {
+      "ResourceKey": "ErrorDetails",
+      "Value": "Detalles de error"
     }
   ],
   "fr-FR": [
@@ -123,6 +131,10 @@
     {
       "ResourceKey": "Empty_Result_Set_Message",
       "Value": "Désolés, nous n’avons pu trouver aucun résultat correspondant à votre recherche."
+    },
+    {
+      "ResourceKey": "ErrorDetails",
+      "Value": "Rapport d'erreurs"
     }
   ]
 }
