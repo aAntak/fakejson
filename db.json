@@ -31,7 +31,11 @@
     {
       "ResourceKey": "Global_Category",
       "Value": "Category"
-    }
+    },
+     {
+    "ResourceKey": "NotificationList_SearchHint",
+    "Value": "Search by ID or Sent to"
+  },
   ],
   "es-419": [
     {
@@ -65,7 +69,11 @@
     {
       "ResourceKey": "Global_Category",
       "Value": "Categoría"
-    }
+    },
+    {
+    "ResourceKey": "NotificationList_SearchHint",
+    "Value": "Búsqueda por ID o por Enviado a"
+  },
   ],
   "fr-FR": [
     {
@@ -99,6 +107,10 @@
     {
       "ResourceKey": "Global_Category",
       "Value": "Catégorie"
-    }
+    },
+     {
+    "ResourceKey": "NotificationList_SearchHint",
+    "Value": "Rechercher par ID ou Destinataire"
+  },
   ]
 }
