@@ -32,10 +32,14 @@
       "ResourceKey": "Global_Category",
       "Value": "Category"
     },
-     {
-    "ResourceKey": "NotificationList_SearchHint",
-    "Value": "Search by ID or Sent to"
-  },
+    {
+      "ResourceKey": "NotificationList_SearchHint",
+      "Value": "Search by ID or Sent to"
+    },
+    {
+      "ResourceKey": "Empty_Result_Set_Message",
+      "Value": "Sorry, we couldn't find any results that matched your search."
+    }
   ],
   "es-419": [
     {
@@ -71,9 +75,13 @@
       "Value": "Categoría"
     },
     {
-    "ResourceKey": "NotificationList_SearchHint",
-    "Value": "Búsqueda por ID o por Enviado a"
-  },
+      "ResourceKey": "NotificationList_SearchHint",
+      "Value": "Búsqueda por ID o por Enviado a"
+    },
+    {
+      "ResourceKey": "Empty_Result_Set_Message",
+      "Value": "Lo sentimos, no encontramos ningún resultado que concuerde con su búsqueda."
+    }
   ],
   "fr-FR": [
     {
@@ -84,10 +92,10 @@
       "ResourceKey": "Global_SentDate",
       "Value": "Date d'envoi"
     },
-      {
-    "ResourceKey": "SendTo",
-    "Value": "Destinataire"
-  },
+    {
+      "ResourceKey": "SendTo",
+      "Value": "Destinataire"
+    },
     {
       "ResourceKey": "ClientFilter_Platform",
       "Value": "Plateforme"
@@ -108,9 +116,13 @@
       "ResourceKey": "Global_Category",
       "Value": "Catégorie"
     },
-     {
-    "ResourceKey": "NotificationList_SearchHint",
-    "Value": "Rechercher par ID ou Destinataire"
-  },
+    {
+      "ResourceKey": "NotificationList_SearchHint",
+      "Value": "Rechercher par ID ou Destinataire"
+    },
+    {
+      "ResourceKey": "Empty_Result_Set_Message",
+      "Value": "Désolés, nous n’avons pu trouver aucun résultat correspondant à votre recherche."
+    }
   ]
 }
